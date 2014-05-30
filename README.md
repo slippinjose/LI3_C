@@ -1,6 +1,6 @@
 =======================================
 Laboratórios de Informática III 2013/14
 =======================================
-                    GESTAUTS 
+               GESTAUTS (C)
 
 Enunciado: http://goo.gl/eeIhIX
