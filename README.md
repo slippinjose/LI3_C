@@ -1,4 +1,6 @@
-LI3---Gestauts---C-
-===================
+=======================================
+Laboratórios de Informática III 2013/14
+=======================================
+                    GESTAUTS 
 
-Projecto em C de Laboratórios de Informática III
+Enunciado: http://goo.gl/eeIhIX
